@@ -6,7 +6,7 @@
 
 ### **1.Mail servers for starwars.com:**
 
-
+![](https://github.com/dobyfreejr/Networking-FundamentalsII/blob/4b316be976248f9b18e2dfd76940fffaae625373/img/mission%201.jpg)
 
 
 ### **2.Explain why the Resistance isn’t receiving any emails:**
@@ -38,14 +38,14 @@
 ### **3.Suggested DNS corrections:**
 
 
-
+![](https://github.com/dobyfreejr/Networking-FundamentalsII/blob/4b316be976248f9b18e2dfd76940fffaae625373/img/misson%202.jpg)
 
 
 ## *Mission 3*
 
 ### **1.Document the CNAME records:**
 
-
+![](https://github.com/dobyfreejr/Networking-FundamentalsII/blob/4b316be976248f9b18e2dfd76940fffaae625373/img/mission%203.jpg)
 
 
 ### **2.Explain why the subpage resistance.theforce.net isn’t redirecting to theforce.net:**
@@ -64,7 +64,7 @@
 ### **1.Confirm the DNS records for princessleia.site:**
 
 
-
+![](https://github.com/dobyfreejr/Networking-FundamentalsII/blob/4b316be976248f9b18e2dfd76940fffaae625373/img/mission%204.jpg)
 
 ### **2.Suggested DNS record corrections to prevent the issue from occurring again:**
 
@@ -91,7 +91,7 @@
 
 ### **1.Wireless key:**
 
-
+![](https://github.com/dobyfreejr/Networking-FundamentalsII/blob/4b316be976248f9b18e2dfd76940fffaae625373/img/mission%206.jpg)
 
 
 
@@ -121,8 +121,8 @@
 
 ### **1.Screenshot of results:**
 
+![](https://github.com/dobyfreejr/Networking-FundamentalsII/blob/4b316be976248f9b18e2dfd76940fffaae625373/img/mission%207.jpg)
 
-
-
+![](https://github.com/dobyfreejr/Networking-FundamentalsII/blob/4b316be976248f9b18e2dfd76940fffaae625373/img/mission%207.1.jpg)
 
 
